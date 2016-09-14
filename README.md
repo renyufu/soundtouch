@@ -1,7 +1,6 @@
 # soundtouch
 
-soundtouch@@ubuntu docker image.
-
+soundtouch@ubuntu docker image.
 
 # Usage
 
