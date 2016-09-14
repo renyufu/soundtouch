@@ -7,4 +7,4 @@ soundtouch@@ubuntu docker image.
 
 1. `docker pull renyufu/soundtouch`
 
-2. ``docker run --rm -it -v `pwd/`:/mp3 renyufu/soundtouch``
+2. ``docker run --rm -it -v `pwd`:/mp3 renyufu/soundtouch``
